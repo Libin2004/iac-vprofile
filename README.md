@@ -11,5 +11,6 @@ Terraform version 1.6.3
 * terraform validate
 * terraform plan -out planfile
 * terraform apply -auto-approve -input=false -parallelism=1 planfile
+New
 ####
 #####
